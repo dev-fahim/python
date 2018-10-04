@@ -95,6 +95,21 @@ def plusMinus(arr):
 arr = [-4, 3, -9, 0, 4, 1]
 plusMinus(arr)
 
+"""
+Consider a staircase of size n = 1 :
+
+   #
+  ##
+ ###
+####
+Observe that its base and height are both equal 
+to , and the image is drawn using # symbols and spaces. 
+The last line is not preceded by any spaces.
+
+Write a program that prints a staircase of size .
+"""
+
+
 
 
 
